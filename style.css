@@ -1,10 +1,11 @@
 body {
   background-image: url(https://www.blog.motifphotos.com/wp-content/uploads/2020/08/iStock-1140180560-1200x750.jpg);
+background-size: cover;
   color: white;
 }
 img {
   display: align;
-  width: 30%;
+  width: 20%;
   margin: 0 auto;
   box-shadow: 0 0 10px pink
 }
